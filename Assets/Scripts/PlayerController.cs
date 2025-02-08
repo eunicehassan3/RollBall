@@ -9,7 +9,7 @@ public class PlayerController : MonoBehaviour
     private float movementX;
     private float movementY;
 
-    public float speed = 5;
+    public float speed = 4.0f;
 
     public GameObject winTextObject;
     
